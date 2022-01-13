@@ -23,3 +23,8 @@ This file was created by `git_user_1`
 
 ## Summary and Results (user2)
 This comment is by user 2.  I will attempt to stash and merge some of the code now.
+
+## Results and Summary
+I was unsuccessful in use of the `stash` command.  However, the end results illustrated above were achieved.  The lesson learned here is that stash is only really for changes that haven't been added and/or committed, nevermind merged into the remote.  As user2 I was able to commit changes, however, I was unable to push code to the remote.  The fix was rather easy in that I had to pull the code again then work through the conflicts, then commit and push code.  It really isn't as complicated as it sounds.  It would be messy and challenging if one was in a position where the changes were big and dramatic.
+
+Next step.  I am going to push this update to the remote.  Then I will make some changes as user 2, not not commit, then utilize stash to hopefull resolve everything.
