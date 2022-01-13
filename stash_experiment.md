@@ -20,3 +20,6 @@ This should simulate something like the following diagrams:
           0---0---R---0         User 2
 
 This file was created by `git_user_1`
+
+## Summary and Results (user2)
+This comment is by user 2.  I will attempt to stash and merge some of the code now.
