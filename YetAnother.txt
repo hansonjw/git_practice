@@ -3,3 +3,6 @@ It's working!!
 Adding yet another file just for fun
 
 This is pretty cool and it's all starting to come back to me.  Now one last push then I need to move on.
+
+This is user2 and this is the change for the stash experiment, change 1 of 2
+This is a message by user 1...testing 1...2...3
